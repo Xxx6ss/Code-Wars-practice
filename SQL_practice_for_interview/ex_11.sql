@@ -1,1 +1,1 @@
-Select avg(speed) from pc
+§Select avg(speed) from pc
